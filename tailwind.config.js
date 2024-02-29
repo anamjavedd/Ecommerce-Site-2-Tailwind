@@ -12,6 +12,7 @@ module.exports = {
         custom70: '72%',
         custom80: '76%',
         custom8: '8%',
+        custom800: '80%',
       },
 
       fontWeight: {
